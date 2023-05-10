@@ -3,8 +3,8 @@ layout: page
 permalink: /schedule/
 title: schedule
 description:
-nav: true
-nav_order: 3
+nav: false
+nav_order: 5
 ---
 
 Under construction
