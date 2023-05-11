@@ -502,6 +502,12 @@ footer.sticky-bottom {
   display: flex;
   align-items: center;
 }
+.projects .card-item .card-title {
+  font-size: 0.9em;
+}
+.projects .card-item .card-text {
+  font-size: 0.8em;
+}
 .projects .grid-sizer,
 .projects .grid-item {
   width: 250px;
@@ -854,6 +860,68 @@ nav[data-toggle=toc] .nav-link.active:hover {
     top: 0;
   }
 }
+.organizer {
+  width: 100%;
+}
+.organizer .photo {
+  margin-right: 1rem;
+  width: 100%;
+}
+.organizer .p {
+  font-style: monospace;
+  font-size: 0.75em;
+  margin-top: 10px;
+  margin-left: 230px;
+}
+
+@media (min-width: 576px) {
+  .organizer .photo {
+    width: 30%;
+    float: left;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .organizer .info p {
+    font-size: 1em;
+  }
+  .organizer .bio {
+    font-size: 0.75em;
+    margin-top: 10px;
+    margin-left: 230px;
+  }
+}
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5;
+}
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td,
+table > tfoot > tr > th,
+table > tfoot > tr > td {
+  padding: 12px;
+  line-height: 1.2;
+  vertical-align: top;
+  border-top: 1px solid #333;
+}
+table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #333;
+}
+table > caption + thead > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > th,
+table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+table > tbody + tbody {
+  border-top: 2px solid #333;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
