@@ -523,6 +523,14 @@ footer.sticky-bottom {
       display: flex;
       align-items: center;
     }
+
+    .card-title {
+      font-size: .9em;
+    }
+
+    .card-text {
+      font-size: .8em;
+    }
   }
 
   .grid-sizer,
@@ -953,3 +961,84 @@ nav[data-toggle="toc"] {
   }
 }
 
+// Organizer
+
+.organizer {
+  width: 100%;
+
+  .photo {
+    margin-right: 1rem;
+    width: 100%;
+  }
+
+  .p {
+    font-style: monospace;
+    font-size:.75em;
+    margin-top:10px;
+    margin-left:230px;
+  }
+}
+
+@media (min-width: 576px) {
+  .organizer {
+    .photo {
+      width: 30%;
+      float: left;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .info {
+      p {
+        font-size: 1em;
+      }
+    }
+
+    .bio {
+      font-size:.75em;
+      margin-top:10px;
+      margin-left:230px;
+    }  
+  }
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5;
+  // font-size: 1.125rem;
+  // Cells
+  > thead,
+  > tbody,
+  > tfoot {
+    > tr {
+      > th,
+      > td {
+        padding: 12px;
+        line-height: 1.2;
+        vertical-align: top;
+        border-top: 1px solid #333;
+      }
+    }
+  }
+  // Bottom align for column headings
+  > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #333;
+  }
+  // Remove top border from thead by default
+  > caption + thead,
+  > colgroup + thead,
+  > thead:first-child {
+    > tr:first-child {
+      > th,
+      > td {
+        border-top: 0;
+      }
+    }
+  }
+  // Account for multiple tbody instances
+  > tbody + tbody {
+    border-top: 2px solid #333;
+  }
+}

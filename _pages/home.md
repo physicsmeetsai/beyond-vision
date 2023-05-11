@@ -48,12 +48,24 @@ The workshop is organized in two main tracks:
 
 ### Organizers
 
-<div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Alessandro Bombini" affiliation="INFN-Firenze" url="mailto:bombini@fi.infn.it" img="/assets/img/people/bombini.png" %}
-  {% include people_horizontal.html name="Matteo Barbetti" affiliation="University of Firenze" url="mailto:matteo.barbetti@unifi.it" img="/assets/img/people/barbetti.jpeg" %}
-  {% include people_horizontal.html name="Lisa Castelli" affiliation="INFN-Firenze" url="mailto:castelli@fi.infn.it" img="/assets/img/people/castelli.png" %}
-  {% include people_horizontal.html name="Stefano Dal Pra" affiliation="INFN-CNAF" url="mailto:dalpra@infn.it" img="assets/img/people/dalpra.png" %}
-</div>
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/people/bombini.jpeg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/people/barbetti.jpeg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">Alessandro Bombini <br> INFN-Firenze</td>
+    <td style="text-align:center">Matteo Barbetti <br> University of Firenze</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/people/castelli.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/people/dalpra.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">Lisa Castelli <br>  INFN-Firenze</td>
+    <td style="text-align:center">Stefano Dal Pra <br> INFN-CNAF</td>
+  </tr>
+</table>
 
 ### Contact
 
@@ -61,4 +73,14 @@ For any questions, please contact as at ...
 
 ### Brought you by
 
-...
+<div class="row mt-3 align-items-center justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png">
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ site.baseurl }}/assets/img/sponsors/4ch-logo.png">
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png">
+    </div>
+</div>

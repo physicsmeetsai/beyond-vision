@@ -8,11 +8,12 @@ nav: true
 nav_order: 1
 ---
 
-### Key dates
+### Key dates and information
 
 - **Paper submission deadline:** July 10th, 2023
 - **Decision to authors:** July 31st, 2023
 - **Camera ready papers due:** August 20th, 2023
+- **Submission site:** [https://cmt3.research.microsoft.com/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
 
 ### Topics
 
@@ -41,7 +42,7 @@ The workshop is organized in two main tracks:
 
  The workshop's reviewing of submissions will be **double-blind**. Accepted submissions will be presented either as oral resentation or posters at the workshop, and will be published by Springer as Lecture Notes in Computer Science series (LNCS), in the ICIAP 2023 Workshops volume.
 
- The maximum number of pages is 10 + 2 pages for references. While preparing their contributions, authors must follow the guidelines and technical instructions provided by Springer (see [Springer guideline](https://www.springer.com/gp/computer-science/ncs/conference-proceedings-guidelines) and [Springer Overleaf LaTex template](https://www.overleaf.com/latex/templates/pringer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)).
+ The maximum number of pages is 10 + 2 pages for references. While preparing their contributions, authors must follow the guidelines and technical instructions provided by Springer (see [Springer guideline](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and [Springer Overleaf LaTex template](https://www.overleaf.com/latex/templates/pringer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)).
 
  Each accepted paper must be covered by at least **one registered author**. Registration can be either for the full event (5 days) at a regular rate or just for workshops and tutorials (2 days).
 
