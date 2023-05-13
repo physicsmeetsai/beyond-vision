@@ -13,7 +13,7 @@ nav_order: 1
 - **Paper submission deadline:** July 10th, 2023
 - **Decision to authors:** July 31st, 2023
 - **Camera ready papers due:** August 20th, 2023
-- **Submission site:** [https://cmt3.research.microsoft.com/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
+- **Submission website:** [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
 
 ### Topics
 
@@ -46,6 +46,6 @@ The workshop is organized in two main tracks:
 
  Each accepted paper must be covered by at least **one registered author**. Registration can be either for the full event (5 days) at a regular rate or just for workshops and tutorials (2 days).
 
-### Submission site
+### Submission website
 
-The submission site is: [https://cmt3.research.microsoft.com/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
+The submission website is: [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)

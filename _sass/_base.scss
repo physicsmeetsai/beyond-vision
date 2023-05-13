@@ -19,19 +19,12 @@ strong {
   color: var(--global-text-color);
 }
 
-hr {
-  border-top: 1px solid var(--global-divider-color);
+h3 {
+  margin-top: 20px;
 }
 
-table {
-  td,
-  th {
-    font-size: 1rem;
-  }
-
-  th {
-    font-weight: bold;
-  }
+hr {
+  border-top: 1px solid var(--global-divider-color);
 }
 
 a,
@@ -346,8 +339,8 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 0.9rem;
 }
 
@@ -415,7 +408,11 @@ footer.sticky-bottom {
 
 .post-header {
   h1, p {
-    text-align: left;
+    text-align: center;
+  }
+
+  .desc {
+    margin-bottom: 40px;
   }
 }
 
@@ -999,46 +996,5 @@ nav[data-toggle="toc"] {
       margin-top:10px;
       margin-left:230px;
     }  
-  }
-}
-
-table {
-  width: 100%;
-  max-width: 100%;
-  margin-bottom: 1.5;
-  // font-size: 1.125rem;
-  // Cells
-  > thead,
-  > tbody,
-  > tfoot {
-    > tr {
-      > th,
-      > td {
-        padding: 12px;
-        line-height: 1.2;
-        vertical-align: top;
-        border-top: 1px solid #333;
-      }
-    }
-  }
-  // Bottom align for column headings
-  > thead > tr > th {
-    vertical-align: bottom;
-    border-bottom: 2px solid #333;
-  }
-  // Remove top border from thead by default
-  > caption + thead,
-  > colgroup + thead,
-  > thead:first-child {
-    > tr:first-child {
-      > th,
-      > td {
-        border-top: 0;
-      }
-    }
-  }
-  // Account for multiple tbody instances
-  > tbody + tbody {
-    border-top: 2px solid #333;
   }
 }

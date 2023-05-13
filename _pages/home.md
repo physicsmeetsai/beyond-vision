@@ -48,22 +48,36 @@ The workshop is organized in two main tracks:
 
 ### Organizers
 
-<table style="width:75%">
+<table style="width:90%;">
   <tr>
-    <td style="text-align:center"><img src="assets/img/people/bombini.jpeg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/people/barbetti.jpeg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/bombini.jpeg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/barbetti.jpeg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/castelli.jpg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/dalpra.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center">Alessandro Bombini <br> INFN-Firenze</td>
-    <td style="text-align:center">Matteo Barbetti <br> University of Firenze</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="assets/img/people/castelli.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/people/dalpra.jpg" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Lisa Castelli <br>  INFN-Firenze</td>
-    <td style="text-align:center">Stefano Dal Pra <br> INFN-CNAF</td>
+    <td style="text-align:center">
+      <b>Alessandro Bombini</b> <br> INFN-Firenze <br>
+      <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://github.com/androbomb" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/alessandro-bombini-7929a2133" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </td>
+    <td style="text-align:center">
+      <b>Matteo Barbetti</b> <br> University of Firenze <br>
+      <a href="mailto:matteo.barbetti@unifi.it" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/matteo-barbetti" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://twitter.com/mbarbetz" title="Twitter"><i class="fab fa-twitter"></i></a>
+    </td>
+    <td style="text-align:center">
+      <b>Lisa Castelli</b> <br>  INFN-Firenze <br>
+      <a href="mailto:lisa.castelli@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
+    </td>
+    <td style="text-align:center">
+      <b>Stefano Dal Pra</b> <br> INFN-CNAF <br>
+      <a href="mailto:dalpra@infn.it" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/stefano-dal-pra-9601455/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </td>
   </tr>
 </table>
 
@@ -73,14 +87,10 @@ For any questions, please contact as at ...
 
 ### Brought you by
 
-<div class="row mt-3 align-items-center justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png">
-    </div>
-    <div class="col-sm-2 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ site.baseurl }}/assets/img/sponsors/4ch-logo.png">
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png">
-    </div>
-</div>
+<table style="width:90%; margin-top:20px">
+  <tr>
+    <td style="padding-right:45px"><img alt="infn-logo" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png" height="100"></td>
+    <td style="padding-right:45px"><img alt="4ch-logo" src="{{ site.baseurl }}/assets/img/sponsors/4ch-logo.png" height="90"></td>
+    <td><img alt="icsc-logo" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png" height="100"></td>
+  </tr>
+</table>
