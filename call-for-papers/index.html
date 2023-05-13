@@ -43,16 +43,11 @@
 
     <!-- Dark Mode -->
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
-
-    <script src="/beyond-vision/assets/js/theme.js"></script>
-    <script src="/beyond-vision/assets/js/dark_mode.js"></script>
-    
 
   </head>
 
   <!-- Body -->
-  <body class="fixed-top-nav ">
+  <body class="fixed-top-nav sticky-bottom-footer">
 
     <!-- Header -->
     <header>
@@ -89,14 +84,6 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/beyond-vision/assets/pdf/poster.pdf">poster</a>
             
-
-              <!-- Toogle theme mode -->
-              <li class="toggle-container">
-                <button id="light-toggle" title="Change theme">
-                  <i class="fas fa-moon"></i>
-                  <i class="fas fa-sun"></i>
-                </button>
-              </li>
             </ul>
           </div>
         </div>
@@ -110,6 +97,8 @@
       </progress>
     </header>
 
+
+    <div class="header-background"><div class="img"></div></div> 
 
     <!-- Content -->
     <div class="container mt-5">
@@ -133,7 +122,7 @@
   <li>
 <strong>Camera ready papers due:</strong> August 20th, 2023</li>
   <li>
-<strong>Submission site:</strong> <a href="https://cmt3.research.microsoft.com/BVPAI2023" rel="external nofollow noopener" target="_blank">https://cmt3.research.microsoft.com/BVPAI2023</a>
+<strong>Submission website:</strong> <a href="https://cmt3.research.microsoft.com/BVPAI2023" rel="external nofollow noopener" target="_blank">cmt3/BVPAI2023</a>
 </li>
 </ul>
 
@@ -177,9 +166,9 @@
 
 <p>Each accepted paper must be covered by at least <strong>one registered author</strong>. Registration can be either for the full event (5 days) at a regular rate or just for workshops and tutorials (2 days).</p>
 
-<h3 id="submission-site">Submission site</h3>
+<h3 id="submission-website">Submission website</h3>
 
-<p>The submission site is: <a href="https://cmt3.research.microsoft.com/BVPAI2023" rel="external nofollow noopener" target="_blank">https://cmt3.research.microsoft.com/BVPAI2023</a></p>
+<p>The submission website is: <a href="https://cmt3.research.microsoft.com/BVPAI2023" rel="external nofollow noopener" target="_blank">cmt3/BVPAI2023</a></p>
 
           </article>
 
@@ -188,11 +177,10 @@
       
     </div>
 
-    <!-- Footer -->    
-    <footer class="fixed-bottom">
-      <div class="container mt-0">
+    <!-- Footer -->    <footer class="sticky-bottom mt-5">
+      <div class="container">
         © Copyright 2023   . Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
-
+Last updated: May 13, 2023.
       </div>
     </footer>
 
@@ -209,9 +197,6 @@
   <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
   <script defer src="/beyond-vision/assets/js/masonry.js" type="text/javascript"></script>
     
-  <!-- Medium Zoom JS -->
-  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
-  <script defer src="/beyond-vision/assets/js/zoom.js"></script>
 
   <!-- Bootstrap Table -->
   <script defer src="https://unpkg.com/bootstrap-table@1.21.3/dist/bootstrap-table.min.js"></script>
