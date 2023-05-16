@@ -83,7 +83,7 @@ The workshop is organized in two main tracks:
 
 ### Contact
 
-For any questions, please contact as at ...
+:mailbox_with_mail: For any questions, please contact as via CMT3 at  [cmt3/BVPAI2023/Email/Chairs](https://cmt3.research.microsoft.com/BVPAI2023/Email/Chairs) or via our institutional emails.
 
 ### Brought you by
 
