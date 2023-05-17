@@ -13,6 +13,10 @@ nav_order: 1
 <ol class="fa-ul">
   <!--<li><span class="fa-li"><i class="fas fa-check-square"></i></span>List icons can</li>--> <!-- To Be Used when deadline is meet -->
   <li>
+    <span class="fa-li"><i class="far fa-check-square"></i></span>
+    <b>Workshop announcement:</b> May 1st, 2023
+  </li>
+  <li>
     <!-- <span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>  -->
     <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
     <strong>Paper submission deadline:</strong> <u>July 10th, 2023</u>  
