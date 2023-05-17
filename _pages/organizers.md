@@ -11,8 +11,11 @@ nav_order: 3
 <div class="organizer">
   <img class="photo" alt="Alessandro Bombini" src="{{ site.baseurl }}/assets/img/people/bombini.jpeg">
   <div class="info">
-    <h4>Alessandro Bombini</h4>
-    <p>INFN-Firenze</p>
+    <h4>Alessandro Bombini  
+      <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a> 
+    </h4>
+    <p> INFN-Firenze </p>
   </div>
   <p class="bio">
     Ph.D. in Physics, he works as a Researcher at the Istituto Nazionale di Fisica Nucleare (INFN) in the network devoted to the application of nuclear techniques to Cultural Heritage, where he is responsible for the research and development of digital infrastructure and web-services. He is also responsible for the digital development of the "Artificial Intelligence for digital REStoration of Cultura Heritage" (AIRES-CH) project, offering a web service for AI-based digital restoration of cultural heritage employing nuclear physics-based imaging raw data. He is also involved in the development of big data services for real time monitoring of environmental risks on cultural heritage within the european project "Competence Centre for Conservation of Cultural Heritage" (4CH).
@@ -22,7 +25,10 @@ nav_order: 3
 <div class="organizer">
   <img class="photo" alt="Matteo Barbetti" src="{{ site.baseurl }}/assets/img/people/barbetti.jpeg">
   <div class="info">
-    <h4>Matteo Barbetti</h4>
+    <h4>Matteo Barbetti 
+      <a href="mailto:matteo.barbetti@unifi.it" title="email"><i class="fas fa-envelope"></i></a> 
+      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a> 
+    </h4>
     <p>University of Firenze, INFN-Firenze</p>
   </div>
   <p class="bio">
@@ -33,7 +39,11 @@ nav_order: 3
 <div class="organizer">
   <img class="photo" alt="Lisa Castelli" src="{{ site.baseurl }}/assets/img/people/castelli.jpg">
   <div class="info">
-    <h4>Lisa Castelli</h4>
+    <h4>
+      Lisa Castelli
+      <a href="mailto:lisa.castelli@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
+    </h4>
     <p>INFN-Firenze</p>
   </div>
   <p class="bio">
@@ -46,7 +56,11 @@ nav_order: 3
 <div class="organizer">
   <img class="photo" alt="Stefano Dal Pra" src="{{ site.baseurl }}/assets/img/people/dalpra.jpg">
   <div class="info">
-    <h4>Stefano Dal Pra</h4>
+    <h4>
+      Stefano Dal Pra
+      <a href="mailto:dalpra@infn.it" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
+    </h4>
     <p>INFN-CNAF</p>
   </div>
   <p class="bio">
