@@ -10,10 +10,25 @@ nav_order: 1
 
 ### Key dates and information
 
-- **Paper submission deadline:** July 10th, 2023
-- **Decision to authors:** July 31st, 2023
-- **Camera ready papers due:** August 20th, 2023
-- **Submission website:** [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
+<ol class="fa-ul">
+  <!--<li><span class="fa-li"><i class="fas fa-check-square"></i></span>List icons can</li>--> <!-- To Be Used when deadline is meet -->
+  <li>
+    <!-- <span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>  -->
+    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
+    <strong>Paper submission deadline:</strong> <u>July 10th, 2023</u>  
+  </li>
+  <li>
+    <span class="fa-li"><i class="far fa-square"></i></span>
+    <strong>Decision to authors:</strong> July 31st, 2023
+  </li>
+  <li>
+    <span class="fa-li"><i class="far fa-square"></i></span>
+    <strong>Camera ready papers due:</strong> August 20th, 2023
+  </li>
+</ol>
+
+**Submission website:** [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
+
 
 ### Topics
 
