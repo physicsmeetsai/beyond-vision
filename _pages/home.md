@@ -63,6 +63,7 @@ The workshop is organized in two main tracks:
       <a href="https://www.linkedin.com/in/alessandro-bombini-7929a2133" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://twitter.com/__AndroBomb__" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.semanticscholar.org/author/A.-Bombini/84260082" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </td>
     <td style="text-align:center">
       <b>Matteo Barbetti</b> <br> University of Firenze <br>
@@ -71,17 +72,20 @@ The workshop is organized in two main tracks:
       <a href="https://www.linkedin.com/in/matteo-barbetti" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://twitter.com/mbarbetz" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </td>
     <td style="text-align:center">
       <b>Lisa Castelli</b> <br>  INFN-Firenze <br>
       <a href="mailto:lisa.castelli@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.semanticscholar.org/author/L.-Castelli/119595571" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </td>
     <td style="text-align:center">
       <b>Stefano Dal Pra</b> <br> INFN-CNAF <br>
       <a href="mailto:dalpra@infn.it" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/stefano-dal-pra-9601455/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.semanticscholar.org/author/S.-Dal-Pra/13534449" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </td>
   </tr>
 </table>

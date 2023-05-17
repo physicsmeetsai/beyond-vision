@@ -14,6 +14,7 @@ nav_order: 3
     <h4>Alessandro Bombini  
       <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a> 
+      <a href="https://www.semanticscholar.org/author/A.-Bombini/84260082" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
     <p> INFN-Firenze </p>
   </div>
@@ -28,6 +29,7 @@ nav_order: 3
     <h4>Matteo Barbetti 
       <a href="mailto:matteo.barbetti@unifi.it" title="email"><i class="fas fa-envelope"></i></a> 
       <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a> 
+      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
     <p>University of Firenze, INFN-Firenze</p>
   </div>
@@ -43,6 +45,7 @@ nav_order: 3
       Lisa Castelli
       <a href="mailto:lisa.castelli@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.semanticscholar.org/author/L.-Castelli/119595571" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
     <p>INFN-Firenze</p>
   </div>
@@ -60,6 +63,7 @@ nav_order: 3
       Stefano Dal Pra
       <a href="mailto:dalpra@infn.it" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.semanticscholar.org/author/S.-Dal-Pra/13534449" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
     <p>INFN-CNAF</p>
   </div>
