@@ -98,8 +98,10 @@ The workshop is organized in two main tracks:
 
 :mailbox_with_mail: For any questions, please contact as via CMT3 at  [cmt3/BVPAI2023/Email/Chairs](https://cmt3.research.microsoft.com/BVPAI2023/Email/Chairs) or via our institutional emails.
 
--------
 
+
+<!-- 
+-------
 ### Brought you by
 
 <table style="width:90%; margin-top:20px">
@@ -108,4 +110,5 @@ The workshop is organized in two main tracks:
     <td style="padding-right:45px"><img alt="4ch-logo" src="{{ site.baseurl }}/assets/img/sponsors/4ch-logo.png" height="90"></td>
     <td><img alt="icsc-logo" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png" height="100"></td>
   </tr>
-</table>
+</table> 
+-->

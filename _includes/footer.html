@@ -1,6 +1,14 @@
     {% if site.footer_fixed %}
     <footer class="fixed-bottom">
       <div class="container mt-0">
+        <!-- Added -->
+        <h5 style="text-align: left;">Brought you by</h5>
+        <div style="width:90%; margin-top:20px; display: flex; margin-bottom: 10px;">
+          <img alt="infn-logo" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png" height="100">
+          <img alt="4ch-logo" src="{{ site.baseurl }}/assets/img/sponsors/4ch-logo.png" height="90"    style="margin-left: 50px;">
+          <img alt="icsc-logo" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png" height="100" style="margin-left: 45px;">
+        </div >
+        <!-- /Added -->
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
@@ -13,6 +21,14 @@
     {%- else -%}
     <footer class="sticky-bottom mt-5">
       <div class="container">
+        <!-- Added -->
+        <h5 style="text-align: left;">Brought you by</h5>
+        <div style="width:90%; margin-top:20px; display: flex; margin-bottom: 10px;">
+          <img alt="infn-logo" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png" height="100">
+          <img alt="4ch-logo" src="{{ site.baseurl }}/assets/img/sponsors/4ch-logo.png" height="90"    style="margin-left: 50px;">
+          <img alt="icsc-logo" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png" height="100" style="margin-left: 45px;">
+        </div >
+        <!-- /Added -->
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
