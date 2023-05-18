@@ -63,6 +63,7 @@ The workshop is organized in two main tracks:
       <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a>
       <a href="https://www.semanticscholar.org/author/A.-Bombini/84260082" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
+      <a href="https://dl.acm.org/profile/99660371894" title="acm"><i class="ai ai-acm ai"></i></a>
       <a href="https://github.com/androbomb" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/alessandro-bombini-7929a2133" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://twitter.com/__AndroBomb__" title="Twitter"><i class="fab fa-twitter"></i></a>
