@@ -50,7 +50,7 @@ The workshop is organized in two main tracks:
 
 <!-- For academic icons: https://jpswalsh.github.io/academicons/ -->
 
-<table style="width:90%;">
+<table style="max-width:100%; !important;">
   <tr>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/bombini.jpeg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/barbetti.jpeg" height="175"></td>
