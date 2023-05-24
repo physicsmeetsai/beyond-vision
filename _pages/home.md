@@ -44,7 +44,7 @@ The workshop is organized in two main tracks:
 - **Paper submission deadline:** July 10th, 2023
 - **Decision to authors:** July 31st, 2023
 - **Camera ready papers due:** August 20th, 2023
-- **Workshop date:** TBA
+- **Workshop date:** September, 11th, 2023
 
 ### Organizers
 

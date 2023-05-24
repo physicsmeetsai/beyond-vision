@@ -29,6 +29,10 @@ nav_order: 1
     <span class="fa-li"><i class="far fa-square"></i></span>
     <strong>Camera ready papers due:</strong> August 20th, 2023
   </li>
+  <li>
+    <span class="fa-li"><i class="far fa-square"></i></span>
+    <strong>Workshop:</strong> <b>September 11th, 2023</b>
+  </li>
 </ol>
 
 **Submission website:** [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
