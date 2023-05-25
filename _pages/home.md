@@ -5,7 +5,7 @@ permalink: /
 page_title: "Beyond Vision: Physics meets AI"
 page_subtitle: >
   Workshop organized in conjuction with <a href="https://iciap2023.org">ICIAP 2023</a>,
-  11-15 September 2023, Udine (Italy)
+  11 September 2023, Udine (Italy)
 
 news: true  # includes a list of news items
 ---
@@ -45,10 +45,10 @@ The workshop is organized in two main tracks:
 
 ### Key dates
 
-- **Paper submission deadline:** July 10th, 2023
+- **Paper submission deadline:** <i style="margin-left: 2px;" class="fas fa-bell" style="color: #4196b4;"></i> <u>July 10th, 2023</u> <i style="margin-left: 2px;" class="fas fa-bell" style="color: #4196b4;"></i>
 - **Decision to authors:** July 31st, 2023
 - **Camera ready papers due:** August 20th, 2023
-- **Workshop date:** September, 11th, 2023
+- **Workshop date:** <u>September, 11th, 2023</u>
 
 ### Organizers
 
