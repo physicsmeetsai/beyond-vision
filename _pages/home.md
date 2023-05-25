@@ -12,11 +12,15 @@ news: true  # includes a list of news items
 
 ### Aims and scope
 
-The workshop **Beyond Vision: Physics meets AI** (BVPAI), to be held within the _22nd International Conference on Image Analysis and Processing_ (ICIAP 2023), is the first ICIAP workshop dedicated to applications of Statistical Learning methods and Artificial Intelligence techniques to Nuclear and other Physics-based Imaging technologies.
+The workshop **Beyond Vision: Physics meets AI** (BVPAI), to be held within the _22nd International Conference on Image Analysis and Processing_ (ICIAP 2023), on **September 11th, 2023**, in *Udine*. Beyond Vision: Physics meets AI is the first ICIAP workshop devoted to Nuclear and other Physics-based Imaging technologies and the applications of Statistical Learning methods and Artificial Intelligence techniques to Physics.
 
 In the recent years, we have witnessed the incredible rise of **Artificial Intelligence** in all physical sciences: from Computer Vision techniques driven by Nuclear Imaging for painting restoration, to deep generative models used to look for signs of New Physics with the big experiments at CERN. Those technologies are becoming ubiquitus in research activities, pushing research towards the most advanced tools and techniques developed in Computer Vision.
 
-The aim of the workshop is to furnish researchers with different backgrounds a place to **share experiences**, **learn best practices** and contribute to the discussion about the **current challenges** on the application of Statistical Learning and Artificial Intelligence methods to various physics domains.
+The aim of the workshop is to furnish researchers with different backgrounds a place to *share experiences*, *learn best practices* and contribute to the discussion about the *current challenges* in the application of Statistical Learning and Artificial Intelligence methods to various physics domains, and explore the possibilities offered by the Nuclear vision systems to the many possible applicative realms.
+
+Researchers and Technologists willing to participate in the Workshop should submit a paper through the [CMT3 workshop page](https://cmt3.research.microsoft.com/BVPAI2023), passing through a double-blind review phase. 
+
+The submission deadline is **July, 10th, 2023**. Accepted papers will be published in [Springer Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
 
 ### Topics
 
