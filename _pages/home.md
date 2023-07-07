@@ -20,7 +20,7 @@ The aim of the workshop is to furnish researchers with different backgrounds a p
 
 Researchers and Technologists willing to participate in the Workshop should submit a paper through the [CMT3 workshop page](https://cmt3.research.microsoft.com/BVPAI2023), passing through a double-blind review phase. 
 
-The submission deadline is **July, 10th, 2023**. Accepted papers will be published in [Springer Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
+The submission deadline is <b>~~July, 10th, 2023~~</b> **July, 21st, 2023**. Accepted papers will be published in [Springer Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
 
 ### Topics
 
@@ -45,7 +45,7 @@ The workshop is organized in two main tracks:
 
 ### Key dates
 
-- **Paper submission deadline:** <i style="margin-left: 2px;" class="fas fa-bell" style="color: #4196b4;"></i> <u>July 10th, 2023</u> <i style="margin-left: 2px;" class="fas fa-bell" style="color: #4196b4;"></i>
+- **Paper submission deadline:**  ~~July, 10th, 2023~~  <i style="margin-left: 2px;" class="fas fa-bell" style="color: #4196b4;"></i>  <u>July 21st, 2023</u> <i style="margin-left: 2px;" class="fas fa-bell" style="color: #4196b4;"></i>
 - **Decision to authors:** July 31st, 2023
 - **Camera ready papers due:** August 20th, 2023
 - **Workshop date:** <u>September, 11th, 2023</u>
@@ -101,7 +101,7 @@ The workshop is organized in two main tracks:
 
 ### Contact
 
-:mailbox_with_mail: For any questions, please contact as via CMT3 at  [cmt3/BVPAI2023/Email/Chairs](https://cmt3.research.microsoft.com/BVPAI2023/Email/Chairs) or via our institutional emails.
+:mailbox_with_mail: For any questions, please contact us via CMT3 at  [cmt3/BVPAI2023/Email/Chairs](https://cmt3.research.microsoft.com/BVPAI2023/Email/Chairs) or via our institutional emails.
 
 
 
