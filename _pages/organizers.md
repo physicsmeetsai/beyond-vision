@@ -80,7 +80,7 @@ nav_order: 3
 ### Technical program committee
 
 - Matteo Barbetti (University of Firenze, INFN-Firenze)
-- Alessandro Bombini(INFN-Firenze)
+- Alessandro Bombini (INFN-Firenze)
 - Benedetta Camaiani (University of Firenze, INFN-Firenze)
 - Lisa Castelli (INFN-Firenze)
 - Stefano Dal Pra (INFN-CNAF)
