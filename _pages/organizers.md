@@ -79,17 +79,11 @@ nav_order: 3
 
 ### Technical program committee
 
-- Lucio Anderlini (INFN-Firenze)
 - Matteo Barbetti (University of Firenze, INFN-Firenze)
 - Alessandro Bombini(INFN-Firenze)
 - Benedetta Camaiani (University of Firenze, INFN-Firenze)
 - Lisa Castelli (INFN-Firenze)
-- Luca Clissa (INFN-Bologna)
 - Stefano Dal Pra (INFN-CNAF)
 - Fernando Garcia Avello-Bofias (INFN-Firenze)
 - Luca Giommi (INFN-CNAF)
 - Francesca Lizzi (INFN-Pisa)
-- Anna Mazzinghi (University of Firenze)
-- Elisabetta Ronchieri (INFN-CNAF)
-- Chiara Ruberto (University of Firenze)
-- Leandro Sottili (University of Torino)
