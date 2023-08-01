@@ -22,11 +22,11 @@ nav_order: 1
     <strong>Paper submission deadline:</strong> <s>July, 10th, 2023</s>  <u>July 21st, 2023</u> 
   </li>
   <li>
-    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span>
+    <span class="fa-li"><i class="far fa-check-square"></i></span> 
     <strong>Decision to authors:</strong> July 31st, 2023
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-square"></i></span>
+    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span>
     <strong>Camera ready papers due:</strong> August 20th, 2023
   </li>
   <li>

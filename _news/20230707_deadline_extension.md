@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:soon: **Deadline extension announcement**; new deadline:  <u><b>July, 21s, 2023</b></u> :bangbang: 
+:soon: **Deadline extension announcement**; new deadline:  <u><b>July, 21st, 2023</b></u> :bangbang: 
