@@ -22,6 +22,8 @@ Researchers and Technologists willing to participate in the Workshop should subm
 
 The submission deadline is <b>~~July, 10th, 2023~~</b> **July, 21st, 2023**. Accepted papers will be published in [Springer Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
 
+**<a href="{{ './programme/' | relative_url }}" style="text-color:#4196B4">Official Workshop programme available!</a>**
+
 ### Topics
 
 The workshop is organized in two main tracks:
