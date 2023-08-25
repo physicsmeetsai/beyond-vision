@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:memo: Call for papers officially opened, please see the <a href="{{ '/call-for-papers' | relative_url }}">dedicated page</a>!
+:memo: **Call for papers officially opened!** Please see the [dedicated page]("{{ '/call-for-papers' | relative_url }}")!

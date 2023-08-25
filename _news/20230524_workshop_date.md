@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mailbox_with_mail: Official workshop date released: **September, 11th, 2023**
+:mailbox_with_mail: **Official workshop date released:** <u>September, 11th, 2023</u>

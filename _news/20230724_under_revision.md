@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scream: **Papers arrived! Revision in progress**; :hourglass_flowing_sand:  reviewer replies waited for:  <b>July, 31s, 2023</b> 
+:hourglass_flowing_sand: **Papers arrived and revision in progress!** Reviewer replies waited for <u>July, 31s, 2023</u>

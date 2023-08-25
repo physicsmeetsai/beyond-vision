@@ -14,29 +14,29 @@ nav_order: 1
   <!--<li><span class="fa-li"><i class="fas fa-check-square"></i></span>List icons can</li>--> <!-- To Be Used when deadline is meet -->
   <li>
     <span class="fa-li"><i class="far fa-check-square"></i></span>
-    <b>Workshop announcement:</b> May 1st, 2023
+    <strong>Workshop announcement:</strong> <u>May 1st, 2023</u>
   </li>
   <li>
     <!-- <span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>  -->
     <span class="fa-li"><i class="far fa-check-square"></i></span> 
-    <strong>Paper submission deadline:</strong> <s>July, 10th, 2023</s>  <u>July 21st, 2023</u> 
+    <strong>Paper submission deadline:</strong> <s>July, 10th, 2023</s> <u>July 21st, 2023</u> 
   </li>
   <li>
     <span class="fa-li"><i class="far fa-check-square"></i></span> 
-    <strong>Decision to authors:</strong> July 31st, 2023
+    <strong>Decision to authors:</strong> <u>July 31st, 2023</u>
   </li>
   <li>
     <span class="fa-li"><i class="far fa-check-square"></i></span> 
-    <strong>Camera ready papers due:</strong> August 20th, 2023
+    <strong>Camera ready papers due:</strong> <u>August 20th, 2023</u>
   </li>
   <li>
     <span class="fa-li"><i class="far fa-check-square"></i></span> 
-    <strong>Official workshop programme available: </strong> August 23th, 2023
+    <strong>Official workshop programme available:</strong> <u>August 23th, 2023</u>
   </li>
   <li>
     <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span>
     <!-- <span class="fa-li"><i class="far fa-square"></i></span> --> 
-    <strong>Workshop:</strong> <b>September 11th, 2023</b>
+    <strong>Workshop:</strong> <u>September 11th, 2023</u>
   </li>
 </ol>
 
@@ -63,16 +63,17 @@ The workshop is organized in two main tracks:
   - Fast detector simulation
   - Synthetic data augmentation
   - Other SOTA methods for Physics Data Analysis and processing
-  
+
+
 ### Submission and review
 
- We invite submission of papers describing work in the domains suggested above or in closely-related areas.
+We invite submission of papers describing work in the domains suggested above or in closely-related areas.
 
- The workshop's reviewing of submissions will be **double-blind**. Accepted submissions will be presented either as oral resentation or posters at the workshop, and will be published by Springer as Lecture Notes in Computer Science series (LNCS), in the ICIAP 2023 Workshops volume.
+The workshop's reviewing of submissions will be **double-blind**. Accepted submissions will be presented either as oral resentation or posters at the workshop, and will be published by Springer as Lecture Notes in Computer Science series (LNCS), in the ICIAP 2023 Workshops volume.
 
- The maximum number of pages is 10 + 2 pages for references. While preparing their contributions, authors must follow the guidelines and technical instructions provided by Springer (see [Springer guideline](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and [Springer Overleaf LaTex template](https://www.overleaf.com/latex/templates/pringer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)).
+The maximum number of pages is 10 + 2 pages for references. While preparing their contributions, authors must follow the guidelines and technical instructions provided by Springer (see [Springer guideline](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and [Springer Overleaf LaTex template](https://www.overleaf.com/latex/templates/pringer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)).
 
- Each accepted paper must be covered by at least **one registered author**. Registration can be either for the full event (5 days) at a regular rate or just for workshops and tutorials (2 days).
+Each accepted paper must be covered by at least **one registered author**. Registration can be either for the full event (5 days) at a regular rate or just for workshops and tutorials (2 days).
 
 ### Submission website
 
@@ -81,35 +82,97 @@ The submission website is: [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/
 
 ### Fees
 
+For more info, see the official ICIAP2023 page at: [https://iciap2023.org/registration](https://iciap2023.org/registration)
 
-
-For more info, see the official ICIAP2023 page at: [https://iciap2023.org/registration/](https://iciap2023.org/registration/)
-
+<!--
 <iframe width="100%" height="500px" src="https://iciap2023.org/registration/"></iframe>
+-->
 
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-### Workshops/Tutorials pass*
+#### Workshops/Tutorials pass*
+
 <figure class="wp-block-table is-style-stripes">
   <table class="has-fixed-layout">
-    <tbody><tr><td><strong>Profile</strong></td><td><strong>Early bird up to July 10</strong></td><td><strong>Late fee</strong></td><td><strong>Onsite</strong></td></tr><tr><td>Regular</td><td>350€</td><td>400€</td><td>450€</td></tr><tr><td>IAPR member</td><td>300€</td><td>350€</td><td>400€</td></tr><tr><td>Student</td><td>250€</td><td>300€</td><td>350€</td></tr>
+    <tbody>
+      <tr>
+        <td><strong>Profile</strong></td>
+        <td><strong>Early bird (up to July 25th)</strong></td>
+        <td><strong>Late fee</strong></td>
+        <td><strong>Onsite</strong></td>
+      </tr>
+      <tr>
+        <td>Regular</td>
+        <td>350€</td>
+        <td>400€</td>
+        <td>450€</td>
+      </tr>
+      <tr>
+        <td>IAPR member</td>
+        <td>300€</td>
+        <td>350€</td>
+        <td>400€</td>
+      </tr>
+      <tr>
+        <td>Student</td>
+        <td>250€</td>
+        <td>300€</td>
+        <td>350€</td>
+      </tr>
     </tbody>
   </table>
 </figure>
                           
-
 <p>*covers tutorials and workshops only</p>
 <p>Rates are in Euro, per person, including taxes (VAT 22%)</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-### Conference pass**
+
+#### Conference pass**
+
 <figure class="wp-block-table is-style-stripes">
   <table class="has-fixed-layout">
-  <tbody><tr><td><strong>Profile</strong></td><td><strong>Early bird up to July 10</strong></td><td><strong>Late fee</strong></td><td><strong>Onsite</strong></td></tr><tr><td>Regular</td><td>700€</td><td>750€</td><td>800€</td></tr><tr><td>IAPR member</td><td>600€</td><td>650€</td><td>700€</td></tr><tr><td>Student</td><td>400€</td><td>450€</td><td>500€</td></tr><tr><td>IAPR student member</td><td>350€</td><td>400€</td><td>450€</td></tr></tbody>
+    <tbody>
+      <tr>
+        <td><strong>Profile</strong></td>
+        <td><strong>Early bird (up to July 25th)</strong></td>
+        <td><strong>Late fee</strong></td>
+        <td><strong>Onsite</strong></td>
+      </tr>
+      <tr>
+        <td>Regular</td>
+        <td>700€</td>
+        <td>750€</td>
+        <td>800€</td>
+      </tr>
+      <tr>
+        <td>IAPR member</td>
+        <td>600€</td>
+        <td>650€</td>
+        <td>700€</td>
+      </tr>
+      <tr>
+        <td>Student</td>
+        <td>400€</td>
+        <td>450€</td>
+        <td>500€</td>
+      </tr>
+      <tr>
+        <td>IAPR student member</td>
+        <td>350€</td>
+        <td>400€</td>
+        <td>450€</td>
+      </tr>
+    </tbody>
   </table>
 </figure>
 
-<p>**includes main conference,&nbsp;workshop/tutorials and social events</p>
-<p>Rates are in Euro, per person, including taxes (VAT 22%);</p>
-<p>ADDITIONAL PAPER&nbsp; 150.00€</p>
-<p>ADDITIONAL GALA DINNER TICKET&nbsp;150.00€</p>
+<p>**includes main conference, workshop/tutorials and social events</p>
+<p>Rates are in Euro, per person, including taxes (VAT 22%)</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>Additional paper:</strong> 150€</p>
+<p><strong>Additional gala dinner ticket:</strong> 150€</p>
+<p>Rates are in Euro, per person, including taxes (VAT 22%)</p>
