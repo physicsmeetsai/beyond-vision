@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bookmark_tabs: The [dedicated webpage]("{{ './accepted-papers/' | relative_url }}") for the **accepted papers** has been created!
+:bookmark_tabs: The [dedicated webpage](https://physicsmeetsai.github.io/beyond-vision/accepted-papers/) for the **accepted papers** has been created!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mega: **Official [BVPAI 2023 programme]("{{ './programme/' | relative_url }}") available!** Workshop date: <u>September, 11th, 2023</u>
+:mega: **Official [BVPAI 2023 programme](https://physicsmeetsai.github.io/beyond-vision/programme/) available!** Workshop date: <u>September, 11th, 2023</u>
