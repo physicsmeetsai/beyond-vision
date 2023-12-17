@@ -5,7 +5,7 @@ The workshop Beyond Vision: Physics meets AI ([BVPAI 2023](https://physicsmeetsa
 
 The workshop is organized in two main tracks:
 
-1. <u>Nuclear & other Physics-based Imaging technologies</u>
+**1. _Nuclear & other Physics-based Imaging technologies_**
   - Nuclear (& other Physics-based extended)  Computer Vision for Cultural Heritage
   - Particle Accelerators applications: imaging, software and statistical analysis
   - Stastical learning for Astronomy
@@ -14,7 +14,7 @@ The workshop is organized in two main tracks:
   - Neutron and X-Ray-based Tomographic analysis for applied physics
   - Multimodal analysis methods
 
-2. <u>Generative Models & other disruptive Deep Learning methods for Physical Sciences</u>
+**2. _Generative Models & other disruptive Deep Learning methods for Physical Sciences_**
   - Density estimation
   - Anomaly detection
   - Physics-informed systems
@@ -30,4 +30,4 @@ The workshop is organized in two main tracks:
 - **Submission website:** [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
 
 ## Credits
-Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template. Workshop webpage powered by [Jekyll](https://jekyllrb.com) and hosted by [GitHub page](https://pages.github.com). Many thanks to @DrWatt for help in designing, developing, and debugging the workshop webpage.
+Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template. Workshop webpage powered by [Jekyll](https://jekyllrb.com) and hosted by [GitHub page](https://pages.github.com). Many thanks to [Marco Lorusso](https://github.com/DrWatt) for help in designing, developing, and debugging the workshop webpage.
